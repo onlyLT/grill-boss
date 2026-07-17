@@ -1,8 +1,8 @@
-# grill-boss 🍖
-
 <p align="center">
-  <img src="grill-boss-icon.png" width="360" alt="领导丢下一团乱麻，牛马把它放上烤架，烤成一张带对勾的清单">
+  <img src="grill-boss-icon.png" width="160" alt="领导丢下一团乱麻，牛马把它放上烤架，烤成一张带对勾的清单">
 </p>
+
+# grill-boss
 
 **grill-boss 是一个 agent skill ：把领导的一句话需求，拷问成可执行、可落地的方案。**
 
