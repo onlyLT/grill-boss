@@ -4,7 +4,7 @@
 
 <h1>grill-boss</h1>
 
-<p><strong>把领导的一句话需求，拷问成可执行、可落地的方案。</strong></p>
+<p><strong>把领导的模糊需求，拷问成可执行、可落地的方案。</strong></p>
 
 <p>
   <img src="https://img.shields.io/badge/agent-skill-e8590c" alt="agent skill">
