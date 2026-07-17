@@ -1,10 +1,18 @@
-<p align="center">
-  <img src="grill-boss-icon.png" width="160" alt="领导丢下一团乱麻，牛马把它放上烤架，烤成一张带对勾的清单">
+<div align="center">
+
+<img src="grill-boss-icon.png" width="150" alt="领导丢下一团乱麻，牛马把它放上烤架，烤成一张带对勾的清单">
+
+<h1>grill-boss</h1>
+
+<p><strong>把领导的一句话需求，拷问成可执行、可落地的方案。</strong></p>
+
+<p>
+  <img src="https://img.shields.io/badge/agent-skill-e8590c" alt="agent skill">
+  <img src="https://img.shields.io/badge/%E7%89%9B%E9%A9%AC-friendly-2f9e44" alt="牛马 friendly">
+  <img src="https://img.shields.io/badge/%E9%A2%86%E5%AF%BC%E9%9C%80%E6%B1%82-%E5%8F%AF%E6%8B%B7%E9%97%AE-c92a2a" alt="领导需求 可拷问">
 </p>
 
-# grill-boss
-
-**grill-boss 是一个 agent skill ：把领导的一句话需求，拷问成可执行、可落地的方案。**
+</div>
 
 拷问的不是领导，是需求本身。领导不在对话里、去问一次成本很高——所以它替你把问题想全、把事实查好，把只有领导能拍板的事压成一张"10 秒勾选"的请示清单，剩下的全部自己扛。
 
